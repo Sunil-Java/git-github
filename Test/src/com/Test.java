@@ -6,5 +6,7 @@ public class Test {
 		System.out.println("Hello Testing git");
 		
 		System.out.println("Chanxgew in file. testing stash pop");
+		
+		System.out.println("Check git Commit");
 	}
 }
