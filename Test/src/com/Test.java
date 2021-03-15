@@ -7,6 +7,6 @@ public class Test {
 		
 		System.out.println("Chanxgew in file. testing stash pop");
 		
-		System.out.println("Check git Commit");
+		System.out.println("Check git Commit test");
 	}
 }
